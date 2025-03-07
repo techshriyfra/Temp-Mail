@@ -1,0 +1,4 @@
+[
+  { "from": "support@example.com", "subject": "Welcome to Temp Mail", "body": "Thank you for using our service." },
+  { "from": "newsletter@example.com", "subject": "Weekly Newsletter", "body": "Here are the latest updates." }
+]
